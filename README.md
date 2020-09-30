@@ -1,3 +1,3 @@
-# Website to promote our break products
+# Website to promote our bread products
 
-For repo Windows
+This is a repository for our bread products website. 
